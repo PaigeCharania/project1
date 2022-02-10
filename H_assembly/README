@@ -1,0 +1,22 @@
+first
+
+
+run SCRIPT on mitochondrial dna
+
+
+second
+
+
+run SCRIPT on scaffolding dna
+
+
+third
+
+check for value greater than step 1 in output of step 2
+
+
+four
+
+
+grab the sequence below that cov number from step 3.
+Can be multiple.
